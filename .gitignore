@@ -104,3 +104,6 @@ pyvenv.cfg
 
 # mypy
 .mypy_cache/
+
+# Editor settings
+.vscode/
